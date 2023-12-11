@@ -1,0 +1,107 @@
+[
+    {
+        "img": "https://cdn.getiryemek.com/chain/burgerking.png",
+        "title": "Burger King",
+        "link": "https://getir.com/yemek/marka/burger-king/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/popeyes.png",
+        "title": "Popeyes",
+        "link": "https://getir.com/yemek/marka/popeyes/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/dominos.png",
+        "title": "Dominos Pizza",
+        "link": "https://getir.com/yemek/marka/domino-s-pizza/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/mcdonalds.png",
+        "title": "McDonald's",
+        "link": "https://getir.com/yemek/marka/mcdonald-s/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/kfc.png",
+        "title": "KFC",
+        "link": "https://getir.com/yemek/marka/kfc/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/starbucks.png",
+        "title": "Starbucks Coffee",
+        "link": "https://getir.com/yemek/marka/starbucks/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/komagene.png",
+        "title": "Komagene Etsiz Çiğ Köfte",
+        "link": "https://getir.com/yemek/marka/komagene/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/oses.png",
+        "title": "Oses",
+        "link": "https://getir.com/yemek/marka/oses/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/pasaportpizza.png",
+        "title": "Pasaport Pizza",
+        "link": "https://getir.com/yemek/marka/pasaport-pizza/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/tavukdunyasi.png",
+        "title": "Tavuk Dünyası",
+        "link": "https://getir.com/yemek/marka/tavuk-dunyasi/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/littlecaesars.png",
+        "title": "Little Caesars",
+        "link": "https://getir.com/yemek/marka/little-caesars/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/pizzalazza.png",
+        "title": "Pizza Lazza",
+        "link": "https://getir.com/yemek/marka/pizza-lazza/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/arbys.png",
+        "title": "Arby's",
+        "link": "https://getir.com/yemek/marka/arbys/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/papajohns.png",
+        "title": "Papa John's Pizza",
+        "link": "https://getir.com/yemek/marka/papa-john-s/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/ustadonerci.png",
+        "title": "Usta Dönerci",
+        "link": "https://getir.com/yemek/marka/usta-donerci/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/terrapizza.png",
+        "title": "Terra Pizza",
+        "link": "https://getir.com/yemek/marka/terra-pizza/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/pizzahut.png",
+        "title": "Pizza Hut",
+        "link": "https://getir.com/yemek/marka/pizza-hut/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/sbarro.png",
+        "title": "Sbarro",
+        "link": "https://getir.com/yemek/marka/sbarro/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/subway.png",
+        "title": "Subway",
+        "link": "https://getir.com/yemek/marka/subway/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/ustapideci.png",
+        "title": "Usta Pideci",
+        "link": "https://getir.com/yemek/marka/usta-pideci/"
+    },
+    {
+        "img": "https://cdn.getiryemek.com/chain/sushico.png",
+        "title": "Sushico",
+        "link": "https://getir.com/yemek/marka/sushico/"
+    }
+]
