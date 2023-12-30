@@ -1,6 +1,7 @@
-Getir.com Clone Project
-\
-Technologies used in the creation of this project:\
+# Getir.com Clone Project
+
+### Technologies used in the creation of this project
+
 Backend: Asp Net Core\
 CQRS MediaTr\
 Redis\
