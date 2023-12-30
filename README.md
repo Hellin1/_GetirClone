@@ -1,23 +1,23 @@
 Getir.com Clone Project
+\
+Technologies used in the creation of this project:\
+Backend: Asp Net Core\
+CQRS MediaTr\
+Redis\
+RabbitMQ\
+TransactionManaging\
+AutoMapper\
+Entitity Framework Core\
+.Net 6\
+Generic Repository Pattern\
+Onion Architecture\
+FluentValidation\
 
-Technologies used in the creation of this project:
-Backend: Asp Net Core
-CQRS MediaTr,
-Redis,
-RabbitMQ,
-TransactionManaging,
-AutoMapper
-Entitity Framework Core
-.Net 6
-Generic Repository Pattern
-Onion Architecture
-FluentValidation
 
-
-React: 
-Jwt,
-ContextApi
-Tailwind CSS
+React: \
+Jwt\
+ContextApi\
+Tailwind CSS\
 
 
 
