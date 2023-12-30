@@ -18,7 +18,7 @@ FluentValidation\
 React: \
 Jwt\
 ContextApi\
-Tailwind CSS\
+Tailwind CSS
 
 
 
