@@ -12,7 +12,7 @@ Entitity Framework Core\
 .Net 6\
 Generic Repository Pattern\
 Onion Architecture\
-FluentValidation\
+FluentValidation
 
 
 React: \
