@@ -33,12 +33,12 @@ namespace GetirClone.Persistance.Repositories
 
         public async Task<T?> GetByFilterAsyncNoTracking(Expression<Func<T, bool>> filter, CancellationToken cancellationToken)
         {
-            return await _context.Set<T>().AsNoTracking().SingleOrDefaultAsync(filter, cancellationToken);
+            return await _context.Set<T>().AsNoTracking().FirstOrDefaultAsync(filter, cancellationToken);
         }
 
         public async Task<T?> GetByFilterAsync(Expression<Func<T, bool>> filter, CancellationToken cancellationToken)
         {
-            return await _context.Set<T>().SingleOrDefaultAsync(filter, cancellationToken);
+            return await _context.Set<T>().FirstOrDefaultAsync(filter, cancellationToken);
         }
         public async Task<T?> GetByIdAsync(object id, CancellationToken cancellationToken)
         {

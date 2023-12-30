@@ -63,7 +63,7 @@ namespace GetirClone.API.Controllers
         [HttpDelete]
         public async Task<IActionResult> RemoveCard(int cartId)
         {
-            var command = new RemovePaymentCardCommand(cartId);
+            var command = new RemovePaymentCardCommand(cartId, CustomerId);
             await _transactionManager.SendCommand(command);
             return Ok();
         }
