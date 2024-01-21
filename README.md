@@ -1,7 +1,10 @@
 # Getir.com Clone Project
 
-### Technologies used in the creation of this project
 
+I developed this project to demonstrate my expertise in Asp Net Core and React. Along the way, I actively learned and adapted, ensuring that my efforts consistently produced the desired outcomes. This project serves as a testament to my skills in web development, showcasing not only technical proficiency but also a commitment to ongoing learning and achieving successful results.
+
+
+### Here is a summary of the technologies I used in the creation of this project
 Backend: Asp Net Core\
 CQRS MediaTr, 
 Redis, 
