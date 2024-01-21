@@ -18,7 +18,8 @@ FluentValidation
 React: \
 Jwt, 
 ContextApi, 
-Tailwind CSS
+Tailwind CSS,
+localization with i18n
 
 
 
