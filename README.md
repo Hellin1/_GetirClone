@@ -10,6 +10,7 @@ TransactionManaging,
 AutoMapper, 
 Entitity Framework Core, 
 .Net 6, 
+Unit Of Work,
 Generic Repository Pattern, 
 Onion Architecture, 
 FluentValidation 
